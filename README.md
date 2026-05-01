@@ -1,3 +1,8 @@
+## About Me
+IT Infrastructure & Systems Administrator with hands-on experience in networking, virtualization, and enterprise environments.
+
+This repository represents my practical lab work and continuous learning in infrastructure and cloud technologies.
+
 # IT Infrastructure Lab
 
 This repository showcases my hands-on practice in IT infrastructure, networking, and system administration.
@@ -18,6 +23,13 @@ This repository showcases my hands-on practice in IT infrastructure, networking,
 ### 2. Network Simulation
 - Designed network topology using lab tools
 - Configured IP addressing and connectivity
+
+## Tools & Technologies
+- VMware
+- VirtualBox
+- Windows Server
+- Active Directory
+- DNS / DHCP
 
 ## Goal
 To simulate real-world enterprise IT environments and continuously improve infrastructure and cloud skills.
